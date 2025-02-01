@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hello there 👋
+
+## I mainly do little coding projects either for my Master Thesis, Job or Social Commitments.
+## I'm currently learning R to use for data analysis and visualization
 
 <!--
 **Thillmarius/Thillmarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
